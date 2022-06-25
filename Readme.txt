@@ -1,0 +1,1 @@
+Creating an app with CREATE RENAME UPDATE DELETE(CRUD) function to store personal notes.
